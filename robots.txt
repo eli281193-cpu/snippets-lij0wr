@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eli281193-cpu.github.io/snippets-lij0wr/sitemap.xml
